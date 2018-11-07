@@ -1,4 +1,4 @@
-+## Release 0.9.9.81 Wikivoyage (beta)
+## Release 0.9.9.81 Wikivoyage (beta)
 * UPDATE: October 2018 update of Wikvoyage ZIM archive to wikivoyage_en_all_2018-10.zim
 * ENHANCEMENT: Add a modern CSS spinner and rework status messages
 * ENHANCEMENT: Neater presentation of article search results
